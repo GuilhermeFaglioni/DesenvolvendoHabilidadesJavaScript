@@ -1,8 +1,7 @@
 # DesenvolvendoHabilidadesJavaScript
 Nesse repositório fica toda minha trilha de desenvolvimento de habilidades JavaScript desde o básico.
    
-   Hi! I'm Guilherme Faglioni, 19y male, a Computer Science Major in Brazil(At Universidade federal de Uberlandia)
-  finishing my first semester I recognized the necessity to go deeper in a programming area.
+   Hi! I'm Guilherme Faglioni, 19y male, a Computer Science Major in Brazil(At Universidade federal de Uberlandia) finishing my first semester I recognized the necessity to go deeper in a programming area.
    
    Therefor I decided to study JavaScript as my main language for now, and to help me with my discipline and to create a portfolio with what I have learned
   (this portfolio might be helpful to get opportunities as intern somewhere) I'm creating this repository.
